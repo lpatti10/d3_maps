@@ -1,5 +1,3 @@
 ## Readme
 
-You should probably update this file.
-
-> This app was generated with the [Yeoman TIY Generator](https://github.com/twhitacre/generator-tiy-webapp)
+> Practice with D3 Maps [Tutorial](https://www.youtube.com/watch?v=lJgEx_yb4u0&list=PL6il2r9i3BqH9PmbOf5wA5E1wOG3FT22p&index=20)
